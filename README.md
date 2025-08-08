@@ -1,6 +1,6 @@
 # MQL5 Robot Testing Tool for macOS + Wine
 
-An AI-assisted MQL5 compilation and testing script designed for MetaTrader 5 Expert Advisors (robots) running on macOS with Wine. Perfect for use with AI coding assistants like Claude Code, Gemini Code, Qwen, and other CLI-based AI tools.
+Bashtesting script designed for MetaTrader 5 Expert Advisors (robots) running on macOS with Wine. Perfect for use with AI coding assistants like Claude Code, Gemini Code, Qwen, and other CLI-based AI tools.
 
 ## Overview
 
